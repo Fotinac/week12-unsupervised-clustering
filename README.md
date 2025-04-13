@@ -1,5 +1,5 @@
-# 🌊 Live App  
-[Click to open the app](https://your-streamlit-url.streamlit.app) 
+# Live App  
+[Click to open the app](https://week12unsupervisedclustering-3v8dmg9zmpl2bzxncwbpdi.streamlit.app) 
 
 ---
 

@@ -1,0 +1,168 @@
+2025-04-13 17:38:28,020 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:38:28,103 - INFO - utils.model_trainer - KMeans model trained and saved.
+2025-04-13 17:38:33,894 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:38:33,900 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:38:42,937 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:38:43,011 - INFO - utils.model_trainer - KMeans model trained and saved.
+2025-04-13 17:38:43,014 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:38:47,339 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:38:47,345 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:38:52,874 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:38:52,879 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:38:53,607 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:38:53,611 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:38:53,619 - INFO - utils.predictor - Prediction made. Cluster: 4
+2025-04-13 17:39:03,936 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:39:03,940 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:39:05,883 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:39:05,888 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:39:05,894 - INFO - utils.predictor - Prediction made. Cluster: 0
+2025-04-13 17:39:15,747 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:39:15,753 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:39:17,574 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:39:17,579 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:39:18,337 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:39:18,341 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:39:18,347 - INFO - utils.predictor - Prediction made. Cluster: 0
+2025-04-13 17:39:24,153 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:39:24,158 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:39:24,163 - INFO - utils.predictor - Prediction made. Cluster: 0
+2025-04-13 17:39:26,800 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:39:26,808 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:39:27,762 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:39:27,768 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:39:27,773 - INFO - utils.predictor - Prediction made. Cluster: 4
+2025-04-13 17:40:29,950 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:40:29,953 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:45:04,976 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:45:04,981 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:45:04,988 - INFO - utils.predictor - Prediction made. Cluster: 4
+2025-04-13 17:46:26,876 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:46:26,879 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:46:28,810 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:46:28,817 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:46:30,522 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:46:30,528 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:46:39,344 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:46:39,351 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:46:41,490 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:46:41,495 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:46:41,501 - INFO - utils.predictor - Prediction made. Cluster: 0
+2025-04-13 17:46:46,545 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:46:46,552 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:46:48,290 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:46:48,295 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:46:56,060 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:46:56,066 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:46:56,074 - INFO - utils.predictor - Prediction made. Cluster: 0
+2025-04-13 17:46:58,968 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:46:58,974 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:47:00,100 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:47:00,106 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:47:00,111 - INFO - utils.predictor - Prediction made. Cluster: 0
+2025-04-13 17:47:02,445 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:47:02,448 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:47:03,664 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:47:03,670 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:47:03,676 - INFO - utils.predictor - Prediction made. Cluster: 0
+2025-04-13 17:47:06,598 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:47:06,605 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:47:07,835 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:47:07,842 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:47:07,849 - INFO - utils.predictor - Prediction made. Cluster: 0
+2025-04-13 17:47:12,342 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:47:12,347 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:47:13,441 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:47:13,447 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:47:13,454 - INFO - utils.predictor - Prediction made. Cluster: 4
+2025-04-13 17:47:18,551 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:47:18,555 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:47:18,562 - INFO - utils.predictor - Prediction made. Cluster: 4
+2025-04-13 17:47:21,451 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:47:21,456 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:47:22,570 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:47:22,574 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:47:22,579 - INFO - utils.predictor - Prediction made. Cluster: 4
+2025-04-13 17:48:50,351 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:48:50,364 - INFO - utils.model_trainer - KMeans model trained and saved.
+2025-04-13 17:48:50,366 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:49:17,996 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:49:18,003 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:49:20,538 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:49:20,542 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:49:20,548 - INFO - utils.predictor - Prediction made. Cluster: 0
+2025-04-13 17:51:12,951 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:51:12,955 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:51:13,685 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:51:13,698 - INFO - utils.model_trainer - KMeans model trained and saved.
+2025-04-13 17:51:13,700 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:51:16,047 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:51:16,053 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:51:16,061 - INFO - utils.predictor - Prediction made. Cluster: 6
+2025-04-13 17:51:19,714 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:51:19,718 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:51:20,665 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:51:20,669 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:51:20,676 - INFO - utils.predictor - Prediction made. Cluster: 2
+2025-04-13 17:54:53,747 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:54:53,752 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:54:56,989 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:54:57,003 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:54:57,009 - INFO - utils.predictor - Prediction made. Cluster: 6
+2025-04-13 17:55:03,052 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:55:03,058 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:55:03,878 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:55:03,883 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:57:09,803 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:57:09,806 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:57:12,429 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:57:12,433 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:57:13,671 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:57:13,675 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:57:13,683 - INFO - utils.predictor - Prediction made. Cluster: 6
+2025-04-13 17:58:50,535 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:58:50,539 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:58:53,181 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:58:53,187 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:58:53,194 - INFO - utils.predictor - Prediction made. Cluster: 6
+2025-04-13 17:58:58,020 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:58:58,027 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:58:59,429 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:58:59,434 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:58:59,441 - INFO - utils.predictor - Prediction made. Cluster: 3
+2025-04-13 17:59:07,031 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:59:07,036 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:59:09,074 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:59:09,080 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:59:09,528 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:59:09,540 - INFO - utils.model_trainer - KMeans model trained and saved.
+2025-04-13 17:59:09,542 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:59:11,843 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 17:59:11,850 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 17:59:11,856 - INFO - utils.predictor - Prediction made. Cluster: 6
+2025-04-13 18:00:05,512 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 18:00:05,516 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 18:00:08,605 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 18:00:08,611 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 18:00:08,661 - INFO - utils.predictor - Prediction made. Cluster: 6
+2025-04-13 18:00:12,789 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 18:00:12,794 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 18:00:13,387 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 18:00:13,393 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 18:00:15,022 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 18:00:15,028 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 18:00:15,035 - INFO - utils.predictor - Prediction made. Cluster: 6
+2025-04-13 18:03:25,455 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 18:03:25,462 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 18:03:25,470 - INFO - utils.predictor - Prediction made. Cluster: 6
+2025-04-13 18:03:27,615 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 18:03:27,623 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 18:03:29,724 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 18:03:29,729 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 18:03:30,451 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 18:03:30,456 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 18:03:30,462 - INFO - utils.predictor - Prediction made. Cluster: 2
+2025-04-13 18:04:47,356 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 18:04:47,362 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 18:30:14,210 - INFO - utils.data_loader - Data loaded successfully.
+2025-04-13 18:30:14,214 - INFO - utils.predictor - ✅ Model loaded successfully.
