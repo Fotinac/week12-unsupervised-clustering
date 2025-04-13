@@ -1,0 +1,23 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore model binaries
+models/*.pkl
+
+# Ignore datasets
+data/*.csv
+
+# Ignore editor folders
+.vscode/
+.idea/
+
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
+
+# Mac system files
+.DS_Store
