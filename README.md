@@ -1,70 +1,68 @@
-# UCLA Neural Network Admission Predictor
 
-This application uses a trained neural network to predict graduate admission chances based on a candidate’s profile. Built with **Streamlit** and deployed on the **Streamlit Community Cloud**, the app offers real-time predictions through a simple user interface.
+# Mall Customer Segmentation App
 
-[Visit the app here](https://week12-unsupervised-clustering-4e9days6tedeifzd8nw8w4.streamlit.app))  
+This Streamlit application performs customer segmentation using unsupervised clustering techniques on the **Mall Customers dataset**. It helps identify distinct groups of customers based on their demographic and spending behaviors.
+
+[Visit the app here](https://week12-unsupervised-clustering-4e9days6tedeifzd8nw8w4.streamlit.app)  
 
 ---
 
 ## Purpose
 
-This project aims to help students evaluate their chances of admission to graduate programs based on features like GRE, TOEFL, CGPA, and university rating using a machine learning model trained on the *Admission.csv* dataset.
+The goal of this project is to apply clustering algorithms (like K-Means) to segment mall customers into groups that share similar characteristics. These insights can help marketing teams target different customer segments more effectively.
 
 ---
 
 ## Features
 
-- Intuitive web UI powered by **Streamlit**.
-- Interactive form for user input (GRE, TOEFL, CGPA, etc.).
-- Neural network–based model predicts admission probability.
-- Visual output and feature importance graph.
-- Logging and error-handling implemented for robustness.
-- Ready for cloud deployment via Streamlit Community Cloud.
+- User-friendly web interface using **Streamlit**
+- Input sliders to adjust cluster parameters
+- Real-time clustering and visualization updates
+- Displays:
+  - Cluster plots
+  - Customer count by cluster
+  - Average spending and income per cluster
+- Robust backend with logging and error handling
 
 ---
 
 ## Dataset
 
-The dataset used is `Admission.csv`, containing historical student admission profiles and outcomes. Features include:
+The dataset `mall_customers.csv` includes the following features:
 
-- GRE Score  
-- TOEFL Score  
-- University Rating  
-- Statement of Purpose (SOP)  
-- Letter of Recommendation (LOR)  
-- CGPA  
-- Research Experience  
-- Chance of Admit
+- CustomerID  
+- Gender  
+- Age  
+- Annual Income (k$)  
+- Spending Score (1–100)
 
 ---
 
 ## Technologies Used
 
-- **Python**
-- **Streamlit** – UI and deployment  
-- **TensorFlow/Keras** – Neural network modeling  
-- **Pandas & NumPy** – Data preprocessing  
-- **Matplotlib** – Visualizations  
-- **Scikit-learn** – Data splitting and metrics  
-- **Logging** – Centralized logs for debugging  
-- **VS Code & GitHub** – Development and version control
+- **Streamlit** – For building the user interface
+- **Pandas & NumPy** – For data manipulation
+- **Scikit-learn** – For KMeans clustering
+- **Matplotlib & Seaborn** – For visualizations
+- **Logging** – For tracking app behavior
+- **VS Code & GitHub** – Development & version control
 
 ---
 
 ## Model
 
-A feedforward neural network is trained to predict the probability of admission. It uses scaled inputs and evaluates performance on a test set. The model is saved as `admission_model.h5`.
+The application uses **KMeans clustering** to segment customers. The number of clusters can be selected by the user. The model visualizes clusters using Age, Income, and Spending Score axes.
 
 ---
 
 ## Installation & Setup (Local Deployment)
 
-Follow the steps below to run the project locally:
+Follow these steps to run the project locally:
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Fotinac/week12-unsupervised-clustering.git
-   cd ucla-admission-predictor
+   cd week12-unsupervised-clustering
    ```
 
 2. **Create and activate a virtual environment:**
@@ -85,18 +83,12 @@ Follow the steps below to run the project locally:
 
 ---
 
-## Logging
-
-Application logs are stored in `logs/app.log`. All modules use a centralized logger from `utils/logger.py` for debugging and tracking execution flow.
-
----
-
 ## Future Enhancements
 
-- Add model explainability using SHAP or LIME.
-- Compare multiple model types.
-- Enable batch uploads for multiple predictions.
-- Display more advanced visualizations.
+- Enable dynamic clustering metric selection (e.g., silhouette score)
+- Integrate DBSCAN or hierarchical clustering
+- Upload custom datasets for segmentation
+- Export cluster results to CSV
 
 ---
 
