@@ -3,7 +3,6 @@
 This application uses a trained neural network to predict graduate admission chances based on a candidate’s profile. Built with **Streamlit** and deployed on the **Streamlit Community Cloud**, the app offers real-time predictions through a simple user interface.
 
 [Visit the app here](https://week12-unsupervised-clustering-4e9days6tedeifzd8nw8w4.streamlit.app))  
-**Note:** Replace this link with your actual Streamlit Cloud deployment link.
 
 ---
 
