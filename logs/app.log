@@ -166,3 +166,18 @@
 2025-04-13 18:04:47,362 - INFO - utils.predictor - ✅ Model loaded successfully.
 2025-04-13 18:30:14,210 - INFO - utils.data_loader - Data loaded successfully.
 2025-04-13 18:30:14,214 - INFO - utils.predictor - ✅ Model loaded successfully.
+2025-04-13 21:34:44,721 - INFO - ✅ Model loaded successfully.
+2025-04-13 21:34:47,669 - INFO - ✅ Model loaded successfully.
+2025-04-13 21:34:47,681 - INFO - ✅ Input prepared: [{'Gender': 0, 'Age': 30, 'Annual_Income': 60, 'Spending_Score': 50}]
+2025-04-13 21:34:47,736 - INFO - ✅ Prediction made. Cluster: 6
+2025-04-13 21:34:52,497 - INFO - ✅ Model loaded successfully.
+2025-04-13 21:34:54,607 - INFO - ✅ Model loaded successfully.
+2025-04-13 21:34:57,246 - INFO - ✅ Model loaded successfully.
+2025-04-13 21:34:57,966 - INFO - ✅ Model loaded successfully.
+2025-04-13 21:34:59,836 - INFO - ✅ Model loaded successfully.
+2025-04-13 21:34:59,842 - INFO - ✅ Input prepared: [{'Gender': 1, 'Age': 47, 'Annual_Income': 60, 'Spending_Score': 50}]
+2025-04-13 21:34:59,843 - INFO - ✅ Prediction made. Cluster: 0
+2025-04-13 21:35:03,015 - INFO - ✅ Model loaded successfully.
+2025-04-13 21:35:04,379 - INFO - ✅ Model loaded successfully.
+2025-04-13 21:35:04,385 - INFO - ✅ Input prepared: [{'Gender': 1, 'Age': 47, 'Annual_Income': 60, 'Spending_Score': 67}]
+2025-04-13 21:35:04,387 - INFO - ✅ Prediction made. Cluster: 4
